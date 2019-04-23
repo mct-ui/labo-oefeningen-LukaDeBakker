@@ -409,6 +409,7 @@ a:focus {
     color: #000;
 }
 
+
 .c-button{
     display: inline-block;
     Line-height: 24px;
@@ -424,6 +425,11 @@ a:focus {
 
 
 }
+
+.c-button {
+  background-image: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 51%, #a1c4fd 100%);
+}
+
 
 .c-button:hover {
   background-position: right center; /* change the direction of the change here #0A257D, #061649 */
